@@ -580,6 +580,8 @@ Audio and Music players, Trackers, Digital Audio Workstation software.
 - [XMenu](https://www.devontechnologies.com/apps/freeware) - Directly access all your apps from the manu bar. ![Free][free]
 - [NotchNook](https://lo.cafe/notchnook) - Interactive use of notch area. ![Dollar][mon]
 - [Alcove](https://tryalcove.com) - Dynamic Island for your Mac. ![Dollar][mon]
+- [Juicy](https://getjuicy.app) - Custom battery alerts & health monitoring for your Mac. ![Free][free]  ![Dollar][mon]
+
 
 ### Messenger Applications
 
